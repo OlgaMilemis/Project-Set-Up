@@ -6,6 +6,7 @@
 
 body {
   margin: 100px auto;
+  background: var(--secondary-color);
 }
 
 .bg-transparent {
