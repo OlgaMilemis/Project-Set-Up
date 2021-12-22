@@ -9,14 +9,6 @@ body {
   background: var(--secondary-color);
 }
 
-.navbar {
-  background-color: var(--primary-color);
-}
-.navbar-brand,
-.navbar-link {
-  color: white;
-}
-
 h1 {
   font-family: "Playfair Display", serif;
   font-size: 96px;
@@ -40,6 +32,14 @@ p {
   font-size: 18px;
   line-height: 1.5;
   text-align: center;
+}
+.navbar {
+  background-color: var(--primary-color);
+}
+
+.navbar-brand,
+.navbar-link {
+  color: white;
 }
 
 .navigation-links {
