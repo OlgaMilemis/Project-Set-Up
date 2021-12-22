@@ -8,8 +8,8 @@ body {
   margin: 100px auto;
 }
 
-.bg-light {
-  background-color: var(--primary-color);
+.bg-transparent {
+  color: var(--primary-color);
 }
 
 h1 {
