@@ -9,8 +9,12 @@ body {
   background: var(--secondary-color);
 }
 
-.bg-transparent {
-  color: var(--primary-color);
+.navbar {
+  background-color: var(--primary-color);
+}
+.navbar-brand,
+.navbar-link {
+  color: white;
 }
 
 h1 {
