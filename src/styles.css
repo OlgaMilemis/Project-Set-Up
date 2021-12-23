@@ -1,6 +1,7 @@
 :root {
   --primary-color: #3e7c17;
   --secondary-color: #f0bb62;
+  --tertiary-color: #f4eea9;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -14,7 +15,6 @@ h1 {
   font-size: 96px;
 }
 
-h2,
 h3,
 h4,
 h5,
@@ -39,6 +39,21 @@ p {
 footer {
   border-top: 2px;
   border-color: var(--primary-color);
+}
+
+.cooperation {
+  background: var(--tertiary-color);
+  padding: 6px;
+  margin: 20px auto;
+}
+
+.inquiry {
+  font-family: "Playfair Display", serif;
+  font-size: 24px;
+  opacity: 1;
+}
+.withU {
+  opacity: 0.7;
 }
 
 .bg-dark {
