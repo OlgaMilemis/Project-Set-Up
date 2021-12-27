@@ -62,7 +62,7 @@ footer {
   opacity: 0.7;
 }
 
-.bg-dark {
+.navbar-dark {
   background-color: var(--primary-color);
 }
 
